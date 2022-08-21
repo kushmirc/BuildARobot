@@ -10,9 +10,13 @@ public class Robot {
         name = robotName;
         batteryLevel = 100;
     }
+    public String toString() {
+        return "Hello, I'm the robot: " + name;
+    }
 
     public static void main(String[] args) {
         Robot codey = new Robot("Codey");
         System.out.println(codey);
     }
+
 }
