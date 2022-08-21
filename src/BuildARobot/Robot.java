@@ -6,7 +6,7 @@ public class Robot {
     int batteryLevel;
 
     //constructor method:
-    public Droid(String droidName){
+    public void Droid(String droidName){
         name = droidName;
         batteryLevel = 100;
     }
