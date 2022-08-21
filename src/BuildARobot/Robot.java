@@ -19,10 +19,16 @@ public class Robot {
         System.out.println(name + " is performing task: " + task);
         batteryLevel = batteryLevel - 10;
     }
+    //energy report method:
+    public void energyReport(){
+        System.out.println(name + " has a remaining battery level of: " + batteryLevel);
+    }
 
     public static void main(String[] args) {
         Robot codey = new Robot("Codey");
         System.out.println(codey);
+        codey.performTask("wiggle");
+        codey.performTask("bring Kush a snack");
     }
 
 }
