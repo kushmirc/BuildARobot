@@ -29,6 +29,10 @@ public class Robot {
         System.out.println(codey);
         codey.performTask("wiggle");
         codey.performTask("bring Kush a snack");
+        codey.energyReport();
+
+        Robot buzz = new Robot("Buzz");
+        System.out.println(buzz);
     }
 
 }
