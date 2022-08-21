@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e3db5-ed84-42b8-b2db-edfdce1ca97e" name="Changes" comment="" />
+    <list default="true" id="5c8e3db5-ed84-42b8-b2db-edfdce1ca97e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuildARobot/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildARobot/Robot.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661105960838</updated>
       <workItem from="1661105963684" duration="6559000" />
-      <workItem from="1661119703103" duration="376000" />
+      <workItem from="1661119703103" duration="2769000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit - Define Robot class and create main method">
       <created>1661107531363</created>
@@ -82,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661119992765</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fixed constructor error">
+      <created>1661120200334</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661120200334</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +113,7 @@
     <MESSAGE value="Add instance fields name and battery level" />
     <MESSAGE value="Initial Commit - Define Robot class and create main method" />
     <MESSAGE value="Add constructor method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add constructor method" />
+    <MESSAGE value="Fixed constructor error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed constructor error" />
   </component>
 </project>

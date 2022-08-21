@@ -6,11 +6,13 @@ public class Robot {
     int batteryLevel;
 
     //constructor method:
-    public void Droid(String droidName){
-        name = droidName;
+    public Robot(String robotName){
+        name = robotName;
         batteryLevel = 100;
     }
-    public static void main(String[] args) {
 
+    public static void main(String[] args) {
+        Robot codey = new Robot("Codey");
+        System.out.println(codey);
     }
 }
