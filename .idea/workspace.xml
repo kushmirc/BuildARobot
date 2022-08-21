@@ -55,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661105960838</updated>
       <workItem from="1661105963684" duration="6559000" />
-      <workItem from="1661119703103" duration="3397000" />
+      <workItem from="1661119703103" duration="4150000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit - Define Robot class and create main method">
       <created>1661107531363</created>
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661122871237</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add toString method to print robot name">
+      <created>1661123547500</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661123547500</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +129,7 @@
     <MESSAGE value="Add constructor method" />
     <MESSAGE value="Fixed constructor error" />
     <MESSAGE value="Instantiate first robot, &quot;Codey&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Instantiate first robot, &quot;Codey&quot;" />
+    <MESSAGE value="Add toString method to print robot name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add toString method to print robot name" />
   </component>
 </project>
