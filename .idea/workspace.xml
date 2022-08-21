@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c8e3db5-ed84-42b8-b2db-edfdce1ca97e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BuildARobot/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildARobot/Robot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661105960838</updated>
       <workItem from="1661105963684" duration="6559000" />
-      <workItem from="1661119703103" duration="4150000" />
+      <workItem from="1661119703103" duration="4465000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit - Define Robot class and create main method">
       <created>1661107531363</created>
@@ -106,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661123547500</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add performTask method">
+      <created>1661124184091</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661124184091</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add performTask method">
+      <created>1661124308744</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661124308744</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +143,7 @@
     <MESSAGE value="Fixed constructor error" />
     <MESSAGE value="Instantiate first robot, &quot;Codey&quot;" />
     <MESSAGE value="Add toString method to print robot name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add toString method to print robot name" />
+    <MESSAGE value="Invoke performTask twice for codey" />
+    <option name="LAST_COMMIT_MESSAGE" value="Invoke performTask twice for codey" />
   </component>
 </project>
