@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c8e3db5-ed84-42b8-b2db-edfdce1ca97e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/BuildARobot/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661105960838</updated>
       <workItem from="1661105963684" duration="6559000" />
-      <workItem from="1661119703103" duration="7461000" />
+      <workItem from="1661119703103" duration="8246000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit - Define Robot class and create main method">
       <created>1661107531363</created>
@@ -147,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661135663923</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Removed README in src folder">
+      <created>1661135792152</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661135792152</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add README to project folder">
+      <created>1661135881868</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661135881868</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +189,8 @@
     <MESSAGE value="Invoke performTask twice for codey" />
     <MESSAGE value="Create energy report method" />
     <MESSAGE value="Invoke energyReport for Codey" />
-    <option name="LAST_COMMIT_MESSAGE" value="Invoke energyReport for Codey" />
+    <MESSAGE value="Removed README in src folder" />
+    <MESSAGE value="Add README to project folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add README to project folder" />
   </component>
 </project>
